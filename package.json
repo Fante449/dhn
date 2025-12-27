@@ -1,0 +1,12 @@
+{
+  "name": "dhn-website",
+  "version": "1.0.0",
+  "description": "DHN Wein Webseite mit Shop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
